@@ -1,0 +1,6 @@
+1. Открыл door_1.conf в nano - файл был пустой
+2. Создал конфигурацию:
+   DOOR_ID=1
+   STATUS=OPEN
+   LOCATION=main_hall
+3. Сохранил: Ctrl+O, Enter, Ctrl+X
