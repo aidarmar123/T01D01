@@ -2,6 +2,8 @@
 
 You can find some useful video materials in the "Projects (Media)" section on the Platform.
 
+1. [Fork and Clone in GitHub](https://docs.github.com/ru/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+
 ![day1_door](misc/images/eng/day1_door.png)
 
 ## Contents
