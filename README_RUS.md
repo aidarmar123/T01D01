@@ -1,6 +1,7 @@
 # T01D01
 
 Полезные видеоматериалы ты можешь найти в разделе "Projects (Media)" на Платформе.
+1. [Форк и Клонирование на GitHub](https://docs.github.com/ru/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
 ![This day will help you get acquainted with Linux shell (Bash).](misc/images/rus/day1_door.png)
 
