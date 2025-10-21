@@ -218,7 +218,11 @@ The printer has chewed it up. It must be a matrix one.
 
 # Chapter III
 
-## Quest 1. Clone.
+## Quest 1. Fork&Clone.
+
+>You need to save all the code before it disappears.
+
+I heard something about forks.
 
 >The key to the door is in the repository, in the /src folder. Run git clone.
 
@@ -257,7 +261,7 @@ You must specify a repository to clone.
 
 \> *... Please enter an action ...*
 
-_**== Quest 1 received. Clone the repository to the local terminal using the git terminal client. ==**_
+_**== Quest 1 received. Fork using the GitHub and Clone the repository to the local terminal using the git terminal client ==**_
 
 ***LOADING…***
 
